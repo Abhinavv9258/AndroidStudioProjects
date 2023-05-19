@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:id="@+id/search_item" android:title="Option1" />
     <item android:id="@+id/upload_item" android:title="Option2" />
     <item android:id="@+id/copy_item" android:title="Option3" />
